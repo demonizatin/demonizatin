@@ -1,6 +1,6 @@
 ### Hi, I'm Priyansh
 
-Product manager in Bengaluru. Only PM at PeerUp, an AI spoken-English app with close to 5M users.
+Product manager in Bengaluru. I work on a consumer AI app with millions of users.
 
 I build the AI features I propose: prompts, pipelines and the evals that prove they work.
 
